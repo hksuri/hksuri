@@ -13,7 +13,7 @@ I've built tools to enhance diagnostics and efficiently process large-scale data
 - [ ] Building **lung cancer screening tools** at **Oatmeal Health**
 
 ⏮️ Previously I've worked on
-- [x] Developing an **AI diagnostic tool** to improve **healthcare decision-making** at **Mayo Clinic**
+- [x] Developing an **AI diagnostic tool** to improve **healthcare decision-making** at **Mayo Clinic** (**update Aug 2025:** [Publication](https://www.sciencedirect.com/science/article/pii/S2950253525000711) accepted!)
 - [x] Creating **cost-effective depth models** and **fall detection algorithms** at **VirtuSense Technologies**
 
 ---
