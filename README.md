@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Muhammad Huzaifa Khan Suri <br> 
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Huzaifa Suri <br> 
 [![LinkedIn](https://img.shields.io/badge/-Huzaifa_Suri-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huzaifa-khan-suri)](https://www.linkedin.com/in/huzaifa-khan-suri) 
 [![Email](https://img.shields.io/badge/-Huzaifa_Suri-red?logo=Gmail&logoColor=white&link=mailto:huzaifasuri@gmail.com)](mailto:huzaifasuri@gmail.com)
 
